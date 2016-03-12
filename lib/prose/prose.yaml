@@ -1,6 +1,6 @@
 # ranges:
   0590-05FF: "hebrew-1"
-  FB00–FB4F: "hebrew-2"
+  FB00-FB4F: "hebrew-2"
   00D00-0D7F: malayalam
   0530-058F: armenian
   2C80-2CFF: coptic
